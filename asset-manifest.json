@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PhillipJBridgeman/markdown-previewer.git/static/css/main.be97d44f.css",
-    "main.js": "/PhillipJBridgeman/markdown-previewer.git/static/js/main.27a84099.js",
-    "static/js/488.c9f633ef.chunk.js": "/PhillipJBridgeman/markdown-previewer.git/static/js/488.c9f633ef.chunk.js",
-    "index.html": "/PhillipJBridgeman/markdown-previewer.git/index.html",
-    "main.be97d44f.css.map": "/PhillipJBridgeman/markdown-previewer.git/static/css/main.be97d44f.css.map",
-    "main.27a84099.js.map": "/PhillipJBridgeman/markdown-previewer.git/static/js/main.27a84099.js.map",
-    "488.c9f633ef.chunk.js.map": "/PhillipJBridgeman/markdown-previewer.git/static/js/488.c9f633ef.chunk.js.map"
+    "main.css": "/PhillipJBridgeman.github.io/markdown-previewer.git/static/css/main.be97d44f.css",
+    "main.js": "/PhillipJBridgeman.github.io/markdown-previewer.git/static/js/main.c6272d04.js",
+    "static/js/488.c9f633ef.chunk.js": "/PhillipJBridgeman.github.io/markdown-previewer.git/static/js/488.c9f633ef.chunk.js",
+    "index.html": "/PhillipJBridgeman.github.io/markdown-previewer.git/index.html",
+    "main.be97d44f.css.map": "/PhillipJBridgeman.github.io/markdown-previewer.git/static/css/main.be97d44f.css.map",
+    "main.c6272d04.js.map": "/PhillipJBridgeman.github.io/markdown-previewer.git/static/js/main.c6272d04.js.map",
+    "488.c9f633ef.chunk.js.map": "/PhillipJBridgeman.github.io/markdown-previewer.git/static/js/488.c9f633ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be97d44f.css",
-    "static/js/main.27a84099.js"
+    "static/js/main.c6272d04.js"
   ]
 }
